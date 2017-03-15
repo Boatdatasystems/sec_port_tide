@@ -2,9 +2,6 @@
 <head>
  <title>Example form</title>
 
-
-
-
  <style type="text/css">
   #title
     {
@@ -26,10 +23,11 @@
     </style>
 
 </head>
+
+ 
 <body>
 
-
-<?php
+ <?php
 //--Classes-----------------------------------------------------
 Class StandardPort
   {
